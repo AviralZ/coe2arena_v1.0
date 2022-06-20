@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "74818993803",
+    "project_id": "demoavi",
+    "storage_bucket": "demoavi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74818993803:android:0aa49cf49d25ec97ff9e8e",
+        "android_client_info": {
+          "package_name": "com.aviRal.co2fever"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74818993803-9r77dh7jms43cbtbt2l1vsbucbptlmor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjKlIimpGB_mQWCA8vFJt-HpU14Nmm680"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74818993803-9r77dh7jms43cbtbt2l1vsbucbptlmor.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
